@@ -1,0 +1,2 @@
+vhdl isim_temp "pa_struc.vhd"
+vhdl isim_temp "tb_pa_struc.vhd"

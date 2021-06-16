@@ -1,0 +1,2 @@
+vhdl work "pa_struc.vhd"
+vhdl work "tb_pa_struc.vhd"
